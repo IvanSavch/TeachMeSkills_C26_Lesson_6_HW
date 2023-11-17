@@ -1,7 +1,7 @@
 # TeachMeSkills_C26_Lesson_6_HW
 my homework number 6
 
-this repository was create for my homework number 6:
+This repository was create for my homework number 6:
 
 Task 1.
 
