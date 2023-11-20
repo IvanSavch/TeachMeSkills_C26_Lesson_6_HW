@@ -1,4 +1,4 @@
-package com.teachmeskills.lesson6.Task1.additionaltask.task1.task2;
+package com.teachmeskills.lesson6.Task1.additionaltask.task1.task3;
 
 public class AdditionalTask3 {
     public static void main(String[] args) {
