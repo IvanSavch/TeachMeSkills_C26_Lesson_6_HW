@@ -25,3 +25,12 @@ Create objects of this class for each student in our group.
 Place all these objects into an array.
 Loop through the array with a for-each loop and output information to the console.
 
+Addditional task:
+
+Additional task 1.
+
+The user makes a deposit in average rubles for a period of several years at 10% per annum.
+(every year the size of his contribution increases by 10%. This money is added to deposit amount, and there will also be interest on them next year).
+Write a bank program that accepts arguments after a year and returns.
+The amount that will be in the user's account.
+
